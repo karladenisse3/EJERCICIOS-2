@@ -1,0 +1,11 @@
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.exe
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.deps.json
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.runtimeconfig.json
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.runtimeconfig.dev.json
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.dll
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\bin\Debug\netcoreapp3.0\KarlaFernandez3A.pdb
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\obj\Debug\netcoreapp3.0\KarlaFernandez3A.csprojAssemblyReference.cache
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\obj\Debug\netcoreapp3.0\KarlaFernandez3A.AssemblyInfoInputs.cache
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\obj\Debug\netcoreapp3.0\KarlaFernandez3A.AssemblyInfo.cs
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\obj\Debug\netcoreapp3.0\KarlaFernandez3A.dll
+C:\Users\CompuStoreManta\Desktop\TareadeMiAmorciobello♥♥♥\Trabajo02\Trabajo02\obj\Debug\netcoreapp3.0\KarlaFernandez3A.pdb
